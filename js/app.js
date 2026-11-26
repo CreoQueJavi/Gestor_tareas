@@ -17,3 +17,4 @@ document.getElementById('anadir').onclick = () => {
   campo.value = '';
   pintar();
 };
+// Funcion de prueba funciones
