@@ -1,0 +1,3 @@
+body { font-family: Arial, sans-serif; max-width: 500px; margin: 2rem auto; }
+li { cursor: pointer; }
+li.hecha { text-decoration: line-through; color: gray; }
